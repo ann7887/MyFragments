@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyFragments</string>
+    <string name="message">Сообщение</string>
+    <string name="make">Создать</string>
+    <string name="exit">Выйти</string>
+    <string name="change_theme">Изменить тему</string>
+    <string name="feedback">Обратная связь</string>
+    <string name="chat_name">Название чата</string>
+    <string name="name">Имя</string>
+    <string name="surname">Фамилия</string>
+    <string name="id">id</string>
+</resources>
